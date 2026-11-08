@@ -1,0 +1,21 @@
+ACER — SITE PARA GITHUB PAGES
+
+1. Extraia o ZIP no seu computador.
+2. Abra https://github.com/live-sites797/acer
+3. Use Add file > Upload files.
+4. Envie index.html, a pasta assets e .nojekyll para a raiz do repositorio.
+   Nao envie apenas o ZIP e nao coloque index.html dentro de outra pasta.
+5. Clique em Commit changes para salvar na branch main.
+6. Abra Settings > Pages.
+7. Em Build and deployment > Source, selecione Deploy from a branch.
+8. Selecione main e / (root) e clique em Save.
+9. Aguarde a publicacao. O GitHub mostrara o link quando estiver pronto.
+
+Endereco esperado: https://live-sites797.github.io/acer/
+
+O site usa HTML, CSS e JavaScript e nao precisa de instalacao ou compilacao.
+Para visualizar no computador, abra index.html.
+O brasao deve permanecer na pasta assets.
+
+Servidor: acerSrV.aternos.me
+Porta Bedrock: 55598
